@@ -17,7 +17,7 @@ if "--ac" in sys.argv:
             n, name = re_num.match(name).groups()
             name = name.strip(". ")
             #print i, pcname, n, name
-            print "PC%02d - AC%03d - %s" % (int(i), int(n), name)
+            print "PC%02d\tAC%03d\t%s" % (int(i), int(n), name)
 else:
     for row in d:
-        print "PC%02d - %s" % (int(row[0]), row[1])
+        print "PC%02d\t%s" % (int(row[0]), row[1])

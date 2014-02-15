@@ -1,0 +1,48 @@
+1	Nandurbar	ST	1. Akkalkuwa (ST), 2. Shahada (ST), 3. Nandurbar (ST), 4. Nawapur (ST), 5. Sakri (ST) and 9. Shirpur (ST)
+2	Dhule	None	6. Dhule Rural, 7. Dhule City, 8. Sindkheda, 114. Malegaon Central, 115. Malegaon Outer and 116. Baglan (ST)
+3	Jalgaon	None	13. Jalgaon City, 14. Jalgaon Rural, 15. Amalner, 16. Erandol, 17. Chalisgaon and 18. Pachora
+4	Raver	None	10. Chopda (ST), 11 Raver, 12. Bhusawal (SC), 19. Jamner, 20 Muktainagar and 21. Malkapur
+5	Buldhana	None	22. Buldhana, 23. Chikhli, 24. Sindkhed Raja, 25. Mehkar (SC), 26. Khamgaon and 27. Jalgaon (Jamod)
+6	Akola	None	28. Akot, 29. Balapur, 30. Akola West, 31. Akola East, 32. Murtizapur (SC) and 33. Risod
+7	Amravati	SC	37. Badnera, 38. Amravati, 39. Teosa, 40. Daryapur (SC), 41. Melghat (ST) and 42. Achalpur
+8	Wardha	None	36. Dhamangaon Railway, 43. Morshi, 44. Arvi, 45. Deoli, 46. Hinganghat and 47. Wardha
+9	Ramtek	SC	48. Katol, 49. Savner, 50. Hingna, 51. Umred (SC), 58. Kamthi and 59. Ramtek
+10	Nagpur	None	52 Nagpur South West, 53. Nagpur South, 54. Nagpur East, 55. Nagpur Central, 56. Nagpur West and 57. Nagpur North (SC)
+11	Bhandara-Gondiya	None	60. Tumsar, 61. Bhandara (SC), 62. Sakoli, 63. Arjuni-Morgaon (SC), 64. Tirora and 65. Gondiya
+12	Gadchiroli-Chimur	ST	66. Amgaon (ST), 67. Armori (ST), 68. Gadchiroli (ST), 69. Aheri (ST), 73. Brahmapuri and 74. Chimur
+13	Chandrapur	None	70. Rajura, 71. Chandrapur (SC), 72. Ballarpur, 75. Warora, 76. Wani and 80. Arni (ST)
+14	Yavatmal-Washim	None	34. Washim (SC), 35. Karanja, 77. Ralegaon (ST) 78. Yavatmal. 79. Digras and 81. Pusad
+15	Hingoli	None	82. Umarkhed (SC), 83. Kinwat, 84. Hadgaon, 92. Basmath, 93. Kalamnuri and 94. Hingoli
+16	Nanded	None	85. Bhokar, 86. Nanded North, 87. Nanded South, 89. Naigaon, 90. Deglur (SC) and 91. Mukhed
+17	Parbhani	None	95. Jintur, 96. Parbhani, 97. Gangakhed, 98. Pathri, 99. Partur and 100. Ghansawangi
+18	Jalna	None	101. Jalna, 102. Badnapur (SC), 103. Bhokardan, 104. Sillod, 106. Phulambri and 110. Paithan
+19	Aurangabad	None	105. Kannad, 107. Aurangabad Central, 108. Aurangabad West (SC), 109. Aurangabad East, 111. Gangapur and 112. Vaijapur
+20	Dindori	ST	113. Nandgaon, 117. Kalwan (ST), 118. Chandvad, 119. Yevla, 121. Niphad and 122. Dindori (ST)
+21	Nashik	None	120. Sinnar, 123. Nashik East, 124. Nashik Central, 125. Nashik West, 126. Deolali (SC) and 127. Igatpuri (ST)
+22	Palghar	ST	128. Dahanu (ST), 129. Vikramgad (ST), 130. Palghar (ST), 131. Boisar (ST), 132. Nalasopara and 133. Vasai
+23	Bhiwandi	None	134 Bhiwandi Rural (ST), 135. Shahapur (ST), 136. Bhiwandi West, 137. Bhiwandi East, 138. Kalyan West and 139. Murbad
+24	Kalyan	None	140. Ambarnath (SC), 141. Ulhas Nagar, 142. Kalyan East, 143-Dombivali, 144. Kalyan Rural and 149. Mumbra-Kalwa
+25	Thane	None	145. Mira Bhayandar, 146. Ovala–Majiwada, 147 Kopri-Pachpakhadi, 148. Thane, 150. Airoli and 151. Belapur
+26	Mumbai North	None	152. Borivali, 153. Dahisar, 154 Magathane, 160. Kandivali East, 161. Charkop and 162. Malad West
+27	Mumbai North West	None	158. Jogeshwari East, 159. Dindoshi, 163. Goregaon, 164. Versova, 165. Andheri West and 166. Andheri East
+28	Mumbai North East	None	155 Mulund, 156. Vikhroli, 157. Bhandup West, 169. Ghatkopar West, 170. Ghatkopar East and 171 Mankhurd Shivaji Nagar
+29	Mumbai North Central	None	167. Vile Parle, 168. Chandivali, 174. Kurla (SC), 176. Vandre East, 177. Vandre West and 175. Kalina
+30	Mumbai South Central	None	172. Anushakti Nagar, 173. Chembur, 178. Dharavi (SC), 179. Sion Koliwada, 180. Wadala and 181.Mahim
+31	Mumbai South	None	182. Worli, 183. Shivadi, 184. Byculla, 185. Malabar Hill, 186. Mumbadevi and 187. Colaba
+32	Raigad	None	191. Pen, 192. Alibag, 193. Shrivardhan, 194. Mahad, 263. Dapoli and 264. Guhagar
+33	Maval	None	188.Panvel, 189. Karjat, 190. Uran, 204. Maval, 205. Chinchwad and 206. Pimpri (SC)
+34	Pune	None	208. Vadgaon Sheri, 209. Shivajinagar, 210. Kothrud, 212. Parvati, 214 Pune Cantonment (SC) and 215. Kasba Peth
+35	Baramati	None	199. Daund, 200. Indapur, 201. Baramati, 202. Purandar, 203. Bhor and 211. Khadakwasala
+36	Shirur	None	195. Junnar, 196. Ambegaon, 197. Khed Alandi, 198. Shirur, 207. Bhosari and 213. Hadapsar
+37	Ahmednagar	None	222. Shevgaon, 223. Rahuri, 224. Parner, 225. Ahmednagar City, 226. Shrigonda and 227. Karjat Jamkhed
+38	Shirdi	SC	216. Akole (ST), 217. Sangamner, 218. Shirdi, 219. Kopargaon, 220. Shrirampur (SC), 221. Nevasa
+39	Beed	None	228. Georai, 229. Majalgaon, 230. Beed, 231. Ashti, 232. Kaij (SC) and 233. Parli
+40	Osmanabad	None	239. Ausa, 240. Umarga (SC), 241. Tuljapur, 242. Osmanabad, 243. Paranda and 246. Barshi
+41	Latur	SC	234. Latur Rural, 235. Latur City, 236. Ahmadpur 237. Udgir (SC), 238. Nilanga and 88. Loha
+42	Solapur	SC	247. Mohol (SC), 248. Solapur City North, 249. Solapur City Central, 250. Akkalkot, 251. Solapur South and 252. Pandharpur
+43	Madha	None	244. Karmala, 245. Madha, 253. Sangole, 254. Malshiras (SC), 255. Phaltan (SC) and 258. Man
+44	Sangli	None	281. Miraj (SC), 282. Sangli, 285. Palus-Kadegaon, 286. Khanapur, 287. Tasgaon-Kavathe Mahankal and 288. Jat
+45	Satara	None	256. Wai, 257. Koregaon, 259. Karad North, 260. Karad South, 261. Patan and 262. Satara
+46	Ratnagiri–Sindhudurg	None	265. Chiplun, 266. Ratnagiri, 267. Rajapur, 268. Kankavli, 269. Kudal and 270-Sawantwadi
+47	Kolhapur	None	271. Chandgad, 272. Radhanagari, 273. Kagal, 274. Kolhapur South, 275. Karvir and 276 Kolhapur North
+48	Hatkanangle	None	277. Shahuwadi, 278. Hatkanangle (SC), 279. Ichalkaranji, 280. Shirol, 283. Islampur and 284. Shirala

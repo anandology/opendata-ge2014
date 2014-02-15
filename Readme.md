@@ -28,9 +28,9 @@ The data is stored in JSON files in `data/` directory.
 
 The filename of the each location is its unique ID.
 
-KA/PC32.json
-KA/AC152.json
-KA/AC152/PB0187.json
+* KA/PC32.json
+* KA/AC152.json
+* KA/AC152/PB0187.json
 
 Web App
 -------
