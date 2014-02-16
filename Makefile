@@ -1,5 +1,5 @@
 
-WPLISINGS=rawdata/MH/wp-listing.txt
+WPLISINGS=$(wildcard rawdata/*/wp-listing.txt)
 AC_FILES=$(WPLISINGS:%/wp-listing.txt=%/ac.txt)
 PC_FILES=$(WPLISINGS:%/wp-listing.txt=%/pc.txt)
 

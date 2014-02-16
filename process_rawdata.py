@@ -35,14 +35,14 @@ def main():
         pc_path = os.path.join("rawdata", state, "pc.txt")
         ac_path = os.path.join("rawdata", state, "ac.txt")
 
-    if os.path.exists(pc_path):
-        for line in open(pc_path):
-            code, name = line.strip("\n").split("\t")
-            write_pc(state, code, name)
-    
-    for line in open(ac_path):
-        pc, code, name = line.strip("\n").split("\t")
-        write_ac(state, pc, code, name)
+        if os.path.exists(pc_path):
+            for line in open(pc_path):
+                code, name = line.strip("\n").split("\t")
+                write_pc(state, code, name)
+        
+        for line in open(ac_path):
+            pc, code, name = line.strip("\n").split("\t")
+            write_ac(state, pc, code, name)
 
 if __name__ == "__main__":
     main()
