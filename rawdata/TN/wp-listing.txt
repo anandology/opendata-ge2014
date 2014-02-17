@@ -1,0 +1,33 @@
+1		None	2. Ponneri, 24. Theagaraya Nagar, 76. Tirukkoyilur, 123. Singanallur, 165. Vedaranyam, 179. Viralimalai, 192. Madurai South, 196. Tirumangalam, 197. Usilampatti, 199. Periyakulam, 206. Virudhunagar, 210. Tiruvadanai, 214. Tuticorin, 216. Srivaikuntam, 218. Kovilpatti, 219. Sankarankoil, 231. Colachel, 232. Padmanabhapuram, 1. Gummidipundi
+2	Ramanathapuram	None	209. Paramakudi, 211. Ramanathapuram, 212. Mudukulathur
+3	Krishnagiri	None	51. Uthangarai, 52. Bargur, 53. Krishnagiri, 54. Veppanahalli, 55. Hosur, 56. Thalli
+4	Kanchipuram	None	28. Thiruporur, 29. Alandur, 30. Pallavaram, 31. Tambaram, 32. Chengalpattu, 33. Uthiramerur, 34. Kancheepuram, 35. Sriperumbudur, 36. Maduranthakam, 37. Cheyyur
+5	Tiruvallur	None	3. Tiruttani, 4. Tiruvallur, 5. Poonamallee, 6. Avadi
+6	Karur	None	134. Aravakurichi, 135. Karur, 136. Krishnarayapuram, 137. Kulithalai
+7	Coimbatore	None	117. Mettupalayam, 118. Sulur, 119. Kaundampalayam, 120. Coimbatore East, 121. Thondamuthur, 122. Coimbatore West, 124. Kinathukadavu, 125. Pollachi, 126. Valparai
+8	Chennai	None	7. Maduravoyal, 8. Ambattur, 9. Madhavaram, 10. Thiruvottiyur, 11. Dr. Radhakrishnan Nagar, 12. Perambur, 13. Kolathur, 14. Villivakkam, 15. Thiru. Vi. Ka. Nagar, 16. Egmore, 17. Royapuram, 18. Harbour, 19. Chepauk, 20. Thousand Lights, 21. Anna Nagar, 22. Virugambakkam, 23. Saidapet, 25. Mylapore, 26. Velachery, 27. Sholinganallur
+9	Erode	None	98. Erode East, 99. Erode West, 100. Modakkurichi, 101. Perundurai, 102. Bhavani, 103. Anthiyur, 104. Gobichettipalayam, 105. Bhavanisagar
+10	Nilgiris	None	114. Udagamandalam, 115. Gudalur, 116. Coonoor
+11	Tiruvarur	None	166. Tiruthuraipundi, 167. Mannargudi, 168. Tiruvarur, 169. Nannilam
+12	Tiruvannamalai	None	62. Chengam, 63. Tiruvannamalai, 64. Kilpennathur, 65. Kalasapakkam, 66. Polur, 67. Arni, 68. Cheyyar, 69. Vandavasi (SC)
+13	Nagapattinam	None	160. Sirkazhi, 161. Mayiladuturai, 162. Poombuhar, 163. Nagapattinam, 164. Kilvelur
+14	Namakkal	None	92. Rasipuram, 93. Senthamangalam, 94. Namakkal, 95. Paramathi-Velur, 96. Tiruchengode, 97. Kumarapalayam
+15	Tirupur	None	106. Dharapuram, 107. Kangayam, 108. Avanashi, 109. Tiruppur North, 110. Tiruppur South, 111. Palladam, 112. Udumalpet, 113. Madathukulam
+16	Theni	None	198. Andipatti, 200. Bodinayakkanur, 201. Cumbum
+17	Dharmapuri	None	57. Palacode, 58. Pennagaram, 59. Dharmapuri, 60. Pappireddippatti, 61. Harur
+18	Salem,	None	81. Gangavalli, 82. Attur, 83. Yercaud, 84. Omalur, 85. Mettur, 86. Edapadi, 87. Sankari, 88. Salem West, 89. Salem North, 90. Salem South, 91. Veerapandi
+19	Kanniyakumari	None	229. Kanyakumari, 230. Nagercoil, 233. Vilavancode, 234. Killiyur
+20	Perambalur	None	147. Perambalur, 148. Kunnam
+21	Cuddalore	None	151. Tittakudi, 152. Vridhachalam, 153. Neyveli, 154. Panruti, 155. Cuddalore, 156. Kurinjipadi, 157. Bhuvanagiri, 158. Chidambaram, 159. Kattumannarkoil
+22	Vellore	None	38. Arakkonam, 39. Sholinghur, 40. Katpadi, 41. Ranipet, 42. Arcot, 43. Vellore, 44. Anaicut, 45. K. V. Kuppam, 46. Gudiyatham, 47. Vaniyambadi, 48. Ambur, 49. Jolarpet, 50. Tiruppattur (41)
+23	Ariyalur	None	149. Ariyalur, 150. Jayankondam
+24	Dindigul	None	127. Palani, 128. Oddanchatram, 129. Athoor, 130. Nilakottai, 131. Natham, 132. Dindigul, 133. Vedasandur
+25	Villupuram	None	70. Gingee, 71. Mailam, 72. Tindivanam, 73. Vanur, 74. Villupuram, 75. Vikravandi, 77. Ulundurpet, 78. Rishivandiyam, 79. Sankarapuram, 80. Kallakurichi
+26	Madurai	None	188. Melur, 189. Madurai East, 190. Sholavandan, 191. Madurai North, 193. Madurai Central, 194. Madurai West, 195. Thirupparankundram
+27	Tirunelveli	None	220. Vasudevanallur, 221. Kadayanallur, 222. Tenkasi, 223. Alangulam, 224. Tirunelveli, 225. Ambasamudram, 226. Palayamkottai, 227. Nanguneri, 228. Radhapuram
+28	Sivaganga	None	184. Karaikudi, 185. Tiruppattur (194), 186. Sivaganga, 187. Manamadurai
+29	Pudukkottai	None	178. Gandarvakottai, 180. Pudukkottai, 181. Tirumayam, 182. Alangudi, 183. Arantangi
+30	Thoothukudi	None	213. Vilathikulam, 215. Tiruchendur, 217. Ottapidaram
+31	Tiruchirappalli	None	138. Manapaarai, 139. Srirangam, 140. Tiruchirappalli West, 141. Tiruchirappalli East, 142. Thiruverumbur, 143. Lalgudi, 144. Manachanallur, 145. Musiri, 146. Thuraiyur
+32	Virudhunagar	None	202. Rajapalayam, 203. Srivilliputhur, 204. Sattur, 205. Sivakasi, 207. Aruppukottai, 208. Tiruchuli
+33	Thanjavur	None	170. Thiruvidamarudur, 171. Kumbakonam, 172. Papanasam, 173. Tiruvaiyaru, 174. Thanjavur, 175. Orathanad, 176. Pattukkottai, 177. Peravurani
