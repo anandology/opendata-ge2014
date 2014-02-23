@@ -1,0 +1,22 @@
+{% macro render_thing(thing) %}
+<a href="{{thing.url()}}">{{thing.code}} - {{thing.name}}</a>
+{% endmacro %}
+
+{% macro render_references(thing, label, type) %}
+  <h3>{{ label }}</h3>
+  <ul class="list-unstyled">
+      {% for x in thing.get_references(type) %}
+        <li><h4><a href="{{x.url()}}">{{x.code}} - {{x.name}}</a><h4></li>
+      {% endfor %}
+  </ul>
+{% endmacro %}
+
+{% macro render_type(type) %}
+  {% set types = {
+        "PC": "Parliamentary Constituency",
+        "AC": "Assembly Constituency",
+        "PB": "Polling Booth",
+      } 
+  %}
+  {{ types.get(type, type.title()) }}
+{% endmacro %}

@@ -1,0 +1,12 @@
+{% extends "_thing.html" %}
+
+{% block properties %}
+<div class="row">
+  <div class="col-md-6">
+    {{ macros.render_references(thing, "Parliamentary Constituencies", "PC") }}
+  </div>
+  <div class="col-md-6">
+    {{ macros.render_references(thing, "Assembly Constituencies", "AC") }}
+  </div>
+</div>
+{% endblock %}

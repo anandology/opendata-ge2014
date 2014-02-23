@@ -1,0 +1,12 @@
+{% extends "_thing.html" %}
+
+{% block properties %}
+<ul class="list-unstyled">
+    <li>State:  {{ macros.render_thing(thing.state) }}</li>
+    <li>Parliamentary Constituency: {{ macros.render_thing(thing.pc) }}</li>
+    <li>Assembly Constituency: {{ macros.render_thing(thing.ac) }}</li>
+</ul>
+{% endblock %}
+    
+
+

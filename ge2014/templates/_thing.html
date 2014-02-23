@@ -1,0 +1,21 @@
+{% extends "_base.html" %}
+{% import "macros.html" as macros %}
+
+{% block title %}{{ thing.code }} - {{ thing.name }}{% endblock %}
+
+{% block content %}
+    {% block heading %}
+        <h1>{{ thing.code }} - {{ thing.name }} <small>{{ macros.render_type(thing.type) }}</small></h1>
+    {% endblock %}
+
+    {% block properties %}
+    <ul class="list-unstyled">
+        {% for name, value in thing.items() %}
+            <li>{{name}} - {{value}}</li>
+        {% endfor %}
+        </ul>
+    {% endblock %}
+{% endblock %}
+    
+
+

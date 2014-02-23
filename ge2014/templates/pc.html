@@ -1,0 +1,14 @@
+{% extends "_thing.html" %}
+{% import "macros.html" as macros %}
+
+{% block properties %}
+<ul class="list-unstyled">
+    <li>State: {{ macros.render_thing(thing.state) }}</li>
+</ul>
+
+{{ macros.render_references(thing, "Assembly Constituencies", "AC") }}
+
+{% endblock %}
+    
+
+
