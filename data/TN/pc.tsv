@@ -1,235 +1,39 @@
-PC01	AC001	Gummidipundi
-PC01	AC002	Ponneri (SC)
-PC01	AC004	Thiruvallur
-PC01	AC005	Poonamallee (SC)
-PC01	AC006	Avadi
-PC01	AC009	Madavaram
-PC02	AC010	Thiruvottiyur
-PC02	AC011	Dr.Radhakrishnan Nagar
-PC02	AC012	Perambur
-PC02	AC013	Kolathur
-PC02	AC015	Thiru. Vi. Ka. Nagar (SC)
-PC02	AC017	Royapuram
-PC03	AC022	Virugambakkam
-PC03	AC023	Saidapet
-PC03	AC024	T. Nagar
-PC03	AC025	Mylapore
-PC03	AC026	Velachery
-PC03	AC027	Sholinganallur
-PC04	AC014	Villivakkam
-PC04	AC016	Egmore (SC)
-PC04	AC018	Harbour
-PC04	AC019	Chepauk-Thiruvallikeni
-PC04	AC020	Thousand Lights
-PC04	AC021	Anna Nagar
-PC05	AC007	Maduravoyal
-PC05	AC008	Ambattur
-PC05	AC028	Alandur
-PC05	AC029	Sriperumbudur (SC)
-PC05	AC030	Pallavaram
-PC05	AC031	Tambaram
-PC06	AC032	Chengalpattu
-PC06	AC033	Thiruporur
-PC06	AC034	Cheyyur (SC)
-PC06	AC035	Madurantakam (SC)
-PC06	AC036	Uthiramerur
-PC06	AC037	Kancheepuram
-PC07	AC003	Tiruttani
-PC07	AC038	Arakkonam (SC)
-PC07	AC039	Sholingur
-PC07	AC040	Katpadi
-PC07	AC041	Ranipet
-PC07	AC042	Arcot
-PC08	AC043	Vellore
-PC08	AC044	Anaikattu
-PC08	AC045	K. V. Kuppam (SC)
-PC08	AC046	Gudiyattam (SC)
-PC08	AC047	Vaniyambadi
-PC08	AC048	Ambur
-PC09	AC051	Uthangarai (SC)
-PC09	AC052	Bargur
-PC09	AC053	Krishnagiri
-PC09	AC054	Veppanahalli
-PC09	AC055	Hosur
-PC09	AC056	Thalli
-PC10	AC057	Palacodu
-PC10	AC058	Pennagaram
-PC10	AC059	Dharmapuri
-PC10	AC060	Pappireddippatti
-PC10	AC061	Harur (SC)
-PC10	AC085	Mettur
-PC11	AC049	Jolarpet
-PC11	AC050	Tirupattur
-PC11	AC062	Chengam (SC)
-PC11	AC063	Tiruvannamalai
-PC11	AC064	Kilpennathur
-PC11	AC065	Kalasapakkam
-PC12	AC066	Polur
-PC12	AC067	Arani
-PC12	AC068	Cheyyar
-PC12	AC069	Vandavasi (SC)
-PC12	AC070	Gingee
-PC12	AC071	Mailam
-PC13	AC072	Tindivanam (SC)
-PC13	AC073	Vanur (SC)
-PC13	AC074	Villupuram
-PC13	AC075	Vikravandi
-PC13	AC076	Tirukkoyilur
-PC13	AC077	Ulundurpettai
-PC14	AC078	Rishivandiyam
-PC14	AC079	Sankarapuram
-PC14	AC080	Kallakurichi (SC)
-PC14	AC081	Gangavalli (SC)
-PC14	AC082	Attur (SC)
-PC14	AC083	Yercaud (ST)
-PC15	AC084	Omalur
-PC15	AC086	Edappadi
-PC15	AC088	Salem (West)
-PC15	AC089	Salem (North)
-PC15	AC090	Salem (South)
-PC15	AC091	Veerapandi
-PC16	AC087	Sankagiri
-PC16	AC092	Rasipuram (SC)
-PC16	AC093	Senthamangalam (ST)
-PC16	AC094	Namakkal
-PC16	AC095	Paramathi Velur
-PC16	AC096	Tiruchengodu
-PC17	AC097	Kumarapalayam
-PC17	AC098	Erode (East)
-PC17	AC099	Erode (West)
-PC17	AC100	Modakkurichi
-PC17	AC101	Dharapuram (SC)
-PC17	AC102	Kangayam
-PC18	AC103	Perundurai
-PC18	AC104	Bhavani
-PC18	AC105	Anthiyur
-PC18	AC106	Gobichettipalayam
-PC18	AC113	Tiruppur (North)
-PC18	AC114	Tiruppur (South)
-PC19	AC107	Bhavanisagar (SC)
-PC19	AC108	Udhagamandalam
-PC19	AC109	Gudalur (SC)
-PC19	AC110	Coonoor
-PC19	AC111	Mettuppalayam
-PC19	AC112	Avanashi (SC)
-PC20	AC115	Palladam
-PC20	AC116	Sulur
-PC20	AC117	Kavundampalayam
-PC20	AC118	Coimbatore (North)
-PC20	AC120	Coimbatore (South)
-PC20	AC121	Singanallur
-PC21	AC121	Thondamuthur
-PC21	AC122	Kinathukadavu
-PC21	AC123	Pollachi
-PC21	AC124	Valparai (SC)
-PC21	AC125	Udumalpet
-PC21	AC126	Madathukulam
-PC22	AC127	Palani
-PC22	AC128	Oddanchatram
-PC22	AC129	Athoor
-PC22	AC130	Nilakkottai (SC)
-PC22	AC131	Natham
-PC22	AC132	Dindigul
-PC23	AC133	Vedasandur
-PC23	AC134	Aravakurichi
-PC23	AC135	Karur
-PC23	AC136	Krishnarayapuram (SC)
-PC23	AC138	Manapaarai
-PC23	AC179	Viralimalai
-PC24	AC139	Srirangam
-PC24	AC140	Tiruchirappalli (West)
-PC24	AC141	Tiruchirappalli (East)
-PC24	AC142	Thiruverumbur
-PC24	AC178	Gandharvakottai (SC)
-PC24	AC180	Pudukkottai
-PC25	AC137	Kulithalai
-PC25	AC143	Lalgudi
-PC25	AC144	Manachanallur
-PC25	AC145	Musiri
-PC25	AC146	Thuraiyur (SC)
-PC25	AC147	Perambalur (SC)
-PC26	AC151	Tittakudi (SC)
-PC26	AC152	Vriddhachalam
-PC26	AC153	Neyveli
-PC26	AC154	Panruti
-PC26	AC155	Cuddalore
-PC26	AC156	Kurinjipadi
-PC27	AC148	Kunnam
-PC27	AC149	Ariyalur
-PC27	-	and
-PC27	AC150	Jayankondam
-PC27	AC157	Bhuvanagiri
-PC27	AC158	Chidambaram
-PC27	AC159	Kattumannarkoil (SC)
-PC28	AC160	Sirkazhi (SC)
-PC28	AC161	Mayiladuthurai
-PC28	AC162	Poompuhar
-PC28	AC170	Thiruvidaimarudur (SC)
-PC28	AC171	Kumbakonam
-PC28	AC172	Papanasam
-PC29	AC163	Nagapattinam
-PC29	AC164	Kilvelur (SC)
-PC29	AC165	Vedaranyam
-PC29	AC166	Thiruthuraipoondi (SC)
-PC29	AC168	Thiruvarur
-PC29	AC169	Nannilam
-PC30	AC167	Mannargudi
-PC30	AC173	Thiruvaiyaru
-PC30	AC174	Thanjavur
-PC30	AC175	Orathanadu
-PC30	AC176	Pattukkottai
-PC30	AC177	Peravurani
-PC31	AC181	Thirumayam
-PC31	AC182	Alangudi
-PC31	AC184	Karaikudi
-PC31	AC185	Tiruppattur
-PC31	AC186	Sivaganga
-PC31	AC187	Manamadurai (SC)
-PC32	AC188	Melur
-PC32	AC189	Madurai East
-PC32	AC191	Madurai North
-PC32	AC192	Madurai South
-PC32	AC193	Madurai Central
-PC32	AC194	Madurai West
-PC33	AC190	Sholavandan (SC)
-PC33	AC197	Usilampatti
-PC33	AC198	Andipatti
-PC33	AC199	Periyakulam (SC)
-PC33	AC200	Bodinayakanur
-PC33	AC201	Cumbum
-PC34	AC195	Thiruparankundram
-PC34	AC196	Thirumangalam
-PC34	AC204	Sattur
-PC34	AC205	Sivakasi
-PC34	AC206	Virudhunagar
-PC34	AC207	Aruppukkottai
-PC35	AC183	Aranthangi
-PC35	AC208	Tiruchuli
-PC35	AC209	Paramakudi (SC)
-PC35	AC210	Tiruvadanai
-PC35	AC211	Ramanathapuram
-PC35	AC212	Mudhukulathur
-PC36	AC213	Vilathikulam
-PC36	AC214	Thoothukkudi
-PC36	AC215	Tiruchendur
-PC36	AC216	Srivaikuntam
-PC36	AC217	Ottapidaram (SC)
-PC36	AC218	Kovilpatti
-PC37	AC202	Rajapalayam
-PC37	AC203	Srivilliputhur (SC)
-PC37	AC219	Sankarankovil (SC)
-PC37	AC220	Vasudevanallur (SC)
-PC37	AC221	Kadayanallur
-PC37	AC222	Tenkasi
-PC38	AC223	Alangulam
-PC38	AC224	Tirunelveli
-PC38	AC225	Ambasamudram
-PC38	AC226	Palayamkottai
-PC38	AC227	Nanguneri
-PC38	AC228	Radhapuram
-PC39	AC229	Kanyakumari
-PC39	AC230	Nagercoil
-PC39	AC231	Colachel
-PC39	AC232	Padmanabhapuram
-PC39	AC233	Vilavancode
-PC39	AC234	Killiyoor
+PC01	Thiruvallur
+PC02	Chennai North
+PC03	Chennai South
+PC04	Chennai Central
+PC05	Sriperumbudur
+PC06	Kancheepuram
+PC07	Arakkonam
+PC08	Vellore
+PC09	Krishnagiri
+PC10	Dharmapuri
+PC11	Tiruvannamalai
+PC12	Arani
+PC13	Villupuram
+PC14	Kallakurichi
+PC15	Salem
+PC16	Namakkal
+PC17	Erode
+PC18	Tiruppur
+PC19	Nilgiris
+PC20	Coimbatore
+PC21	Pollachi
+PC22	Dindigul
+PC23	Karur
+PC24	Tiruchirappalli
+PC25	Perambalur
+PC26	Cuddalore
+PC27	Chidambaram
+PC28	Mayiladuturai
+PC29	Nagapattinam
+PC30	Thanjavur
+PC31	Sivaganga
+PC32	Madurai
+PC33	Theni
+PC34	Virudhunagar
+PC35	Ramanathapuram
+PC36	Thoothukudi
+PC37	Tenkasi
+PC38	Tirunelveli
+PC39	Kanyakumari

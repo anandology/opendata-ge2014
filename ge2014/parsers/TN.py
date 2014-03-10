@@ -11,4 +11,4 @@ def get_acs():
 
 @cache.disk_memoize("data/TN/pc.tsv")
 def get_pcs():
-    return wikipedia.get_ac_list("Tamil Nadu")
+    return wikipedia.get_pc_list("Tamil Nadu")
