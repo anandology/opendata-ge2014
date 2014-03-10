@@ -84,6 +84,14 @@ def disk_memoize(path):
         return g
     return decorator
 
+def safestr(x):
+    if isinstance(x, (list, set)):
+        return [safestr(a) for a in x]
+    if isinstance(x, unicode):
+        return x.encode('utf-8')
+    else:
+        return x
+
 class Disk:
     """Simple wrapper to read and write files in various formats.
     
@@ -98,12 +106,12 @@ class Disk:
         elif path.endswith(".csv"):
             f = StringIO()
             w = csv.writer(f)
-            w.writerows(content)
+            w.writerows([safestr(row) for row in content])
             content = f.getvalue()
         elif path.endswith(".tsv"):
             f = StringIO()
             w = csv.writer(f, delimiter="\t")
-            w.writerows(content)
+            w.writerows([safestr(row) for row in content])
             content = f.getvalue()
             
         dirname = os.path.dirname(path)

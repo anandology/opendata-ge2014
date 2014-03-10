@@ -1,0 +1,288 @@
+PC01	AC001	Akkalkuwa (ST)
+PC01	AC002	Shahada (ST)
+PC01	AC003	Nandurbar (ST)
+PC01	AC004	Nawapur (ST)
+PC01	AC005	Sakri (ST)
+PC01	AC009	Shirpur (ST)
+PC02	AC006	Dhule Rural
+PC02	AC007	Dhule City
+PC02	AC008	Sindkheda
+PC02	AC114	Malegaon Central
+PC02	AC115	Malegaon Outer
+PC02	AC116	Baglan (ST)
+PC03	AC013	Jalgaon City
+PC03	AC014	Jalgaon Rural
+PC03	AC015	Amalner
+PC03	AC016	Erandol
+PC03	AC017	Chalisgaon
+PC03	AC018	Pachora
+PC04	AC010	Chopda (ST)
+PC04	AC011	Raver
+PC04	AC012	Bhusawal (SC)
+PC04	AC019	Jamner
+PC04	AC020	Muktainagar
+PC04	AC021	Malkapur
+PC05	AC022	Buldhana
+PC05	AC023	Chikhli
+PC05	AC024	Sindkhed Raja
+PC05	AC025	Mehkar (SC)
+PC05	AC026	Khamgaon
+PC05	AC027	Jalgaon (Jamod)
+PC06	AC028	Akot
+PC06	AC029	Balapur
+PC06	AC030	Akola West
+PC06	AC031	Akola East
+PC06	AC032	Murtizapur (SC)
+PC06	AC033	Risod
+PC07	AC037	Badnera
+PC07	AC038	Amravati
+PC07	AC039	Teosa
+PC07	AC040	Daryapur (SC)
+PC07	AC041	Melghat (ST)
+PC07	AC042	Achalpur
+PC08	AC036	Dhamangaon Railway
+PC08	AC043	Morshi
+PC08	AC044	Arvi
+PC08	AC045	Deoli
+PC08	AC046	Hinganghat
+PC08	AC047	Wardha
+PC09	AC048	Katol
+PC09	AC049	Savner
+PC09	AC050	Hingna
+PC09	AC051	Umred (SC)
+PC09	AC058	Kamthi
+PC09	AC059	Ramtek
+PC10	AC052	Nagpur South West
+PC10	AC053	Nagpur South
+PC10	AC054	Nagpur East
+PC10	AC055	Nagpur Central
+PC10	AC056	Nagpur West
+PC10	AC057	Nagpur North (SC)
+PC11	AC060	Tumsar
+PC11	AC061	Bhandara (SC)
+PC11	AC062	Sakoli
+PC11	AC063	Arjuni-Morgaon (SC)
+PC11	AC064	Tirora
+PC11	AC065	Gondiya
+PC12	AC066	Amgaon (ST)
+PC12	AC067	Armori (ST)
+PC12	AC068	Gadchiroli (ST)
+PC12	AC069	Aheri (ST)
+PC12	AC073	Brahmapuri
+PC12	AC074	Chimur
+PC13	AC070	Rajura
+PC13	AC071	Chandrapur (SC)
+PC13	AC072	Ballarpur
+PC13	AC075	Warora
+PC13	AC076	Wani
+PC13	AC080	Arni (ST)
+PC14	AC034	Washim (SC)
+PC14	AC035	Karanja
+PC14	AC077	Ralegaon (ST)
+PC14	AC078	Yavatmal
+PC14	AC079	Digras
+PC14	AC081	Pusad
+PC15	AC082	Umarkhed (SC)
+PC15	AC083	Kinwat
+PC15	AC084	Hadgaon
+PC15	AC092	Basmath
+PC15	AC093	Kalamnuri
+PC15	AC094	Hingoli
+PC16	AC085	Bhokar
+PC16	AC086	Nanded North
+PC16	AC087	Nanded South
+PC16	AC089	Naigaon
+PC16	AC090	Deglur (SC)
+PC16	AC091	Mukhed
+PC17	AC095	Jintur
+PC17	AC096	Parbhani
+PC17	AC097	Gangakhed
+PC17	AC098	Pathri
+PC17	AC099	Partur
+PC17	AC100	Ghansawangi
+PC18	AC101	Jalna
+PC18	AC102	Badnapur (SC)
+PC18	AC103	Bhokardan
+PC18	AC104	Sillod
+PC18	AC106	Phulambri
+PC18	AC110	Paithan
+PC19	AC105	Kannad
+PC19	AC107	Aurangabad Central
+PC19	AC108	Aurangabad West (SC)
+PC19	AC109	Aurangabad East
+PC19	AC111	Gangapur
+PC19	AC112	Vaijapur
+PC20	AC113	Nandgaon
+PC20	AC117	Kalwan (ST)
+PC20	AC118	Chandvad
+PC20	AC119	Yevla
+PC20	AC121	Niphad
+PC20	AC122	Dindori (ST)
+PC21	AC120	Sinnar
+PC21	AC123	Nashik East
+PC21	AC124	Nashik Central
+PC21	AC125	Nashik West
+PC21	AC126	Deolali (SC)
+PC21	AC127	Igatpuri (ST)
+PC22	AC128	Dahanu (ST)
+PC22	AC129	Vikramgad (ST)
+PC22	AC130	Palghar (ST)
+PC22	AC131	Boisar (ST)
+PC22	AC132	Nalasopara
+PC22	AC133	Vasai
+PC23	AC134	Bhiwandi Rural (ST)
+PC23	AC135	Shahapur (ST)
+PC23	AC136	Bhiwandi West
+PC23	AC137	Bhiwandi East
+PC23	AC138	Kalyan West
+PC23	AC139	Murbad
+PC24	AC140	Ambarnath (SC)
+PC24	AC141	Ulhas Nagar
+PC24	AC142	Kalyan East
+PC24	AC143	-Dombivali
+PC24	AC144	Kalyan Rural
+PC24	AC149	Mumbra-Kalwa
+PC25	AC145	Mira Bhayandar
+PC25	AC146	Ovala–Majiwada
+PC25	AC147	Kopri-Pachpakhadi
+PC25	AC148	Thane
+PC25	AC150	Airoli
+PC25	AC151	Belapur
+PC26	AC152	Borivali
+PC26	AC153	Dahisar
+PC26	AC154	Magathane
+PC26	AC160	Kandivali East
+PC26	AC161	Charkop
+PC26	AC162	Malad West
+PC27	AC158	Jogeshwari East
+PC27	AC159	Dindoshi
+PC27	AC163	Goregaon
+PC27	AC164	Versova
+PC27	AC165	Andheri West
+PC27	AC166	Andheri East
+PC28	AC155	Mulund
+PC28	AC156	Vikhroli
+PC28	AC157	Bhandup West
+PC28	AC169	Ghatkopar West
+PC28	AC170	Ghatkopar East
+PC28	AC171	Mankhurd Shivaji Nagar
+PC29	AC167	Vile Parle
+PC29	AC168	Chandivali
+PC29	AC174	Kurla (SC)
+PC29	AC176	Vandre East
+PC29	AC177	Vandre West
+PC29	AC175	Kalina
+PC30	AC172	Anushakti Nagar
+PC30	AC173	Chembur
+PC30	AC178	Dharavi (SC)
+PC30	AC179	Sion Koliwada
+PC30	AC180	Wadala
+PC30	AC181	Mahim
+PC31	AC182	Worli
+PC31	AC183	Shivadi
+PC31	AC184	Byculla
+PC31	AC185	Malabar Hill
+PC31	AC186	Mumbadevi
+PC31	AC187	Colaba
+PC32	AC191	Pen
+PC32	AC192	Alibag
+PC32	AC193	Shrivardhan
+PC32	AC194	Mahad
+PC32	AC263	Dapoli
+PC32	AC264	Guhagar
+PC33	AC188	Panvel
+PC33	AC189	Karjat
+PC33	AC190	Uran
+PC33	AC204	Maval
+PC33	AC205	Chinchwad
+PC33	AC206	Pimpri (SC)
+PC34	AC208	Vadgaon Sheri
+PC34	AC209	Shivajinagar
+PC34	AC210	Kothrud
+PC34	AC212	Parvati
+PC34	AC214	Pune Cantonment (SC)
+PC34	AC215	Kasba Peth
+PC35	AC199	Daund
+PC35	AC200	Indapur
+PC35	AC201	Baramati
+PC35	AC202	Purandar
+PC35	AC203	Bhor
+PC35	AC211	Khadakwasala
+PC36	AC195	Junnar
+PC36	AC196	Ambegaon
+PC36	AC197	Khed Alandi
+PC36	AC198	Shirur
+PC36	AC207	Bhosari
+PC36	AC213	Hadapsar
+PC37	AC222	Shevgaon
+PC37	AC223	Rahuri
+PC37	AC224	Parner
+PC37	AC225	Ahmednagar City
+PC37	AC226	Shrigonda
+PC37	AC227	Karjat Jamkhed
+PC38	AC216	Akole (ST)
+PC38	AC217	Sangamner
+PC38	AC218	Shirdi
+PC38	AC219	Kopargaon
+PC38	AC220	Shrirampur (SC)
+PC38	AC221	Nevasa
+PC39	AC228	Georai
+PC39	AC229	Majalgaon
+PC39	AC230	Beed
+PC39	AC231	Ashti
+PC39	AC232	Kaij (SC)
+PC39	AC233	Parli
+PC40	AC239	Ausa
+PC40	AC240	Umarga (SC)
+PC40	AC241	Tuljapur
+PC40	AC242	Osmanabad
+PC40	AC243	Paranda
+PC40	AC246	Barshi
+PC41	AC234	Latur Rural
+PC41	AC235	Latur City
+PC41	AC236	Ahmadpur
+PC41	AC237	Udgir (SC)
+PC41	AC238	Nilanga
+PC41	AC088	Loha
+PC42	AC247	Mohol (SC)
+PC42	AC248	Solapur City North
+PC42	AC249	Solapur City Central
+PC42	AC250	Akkalkot
+PC42	AC251	Solapur South
+PC42	AC252	Pandharpur
+PC43	AC244	Karmala
+PC43	AC245	Madha
+PC43	AC253	Sangole
+PC43	AC254	Malshiras (SC)
+PC43	AC255	Phaltan (SC)
+PC43	AC258	Man
+PC44	AC281	Miraj (SC)
+PC44	AC282	Sangli
+PC44	AC285	Palus-Kadegaon
+PC44	AC286	Khanapur
+PC44	AC287	Tasgaon-Kavathe Mahankal
+PC44	AC288	Jat
+PC45	AC256	Wai
+PC45	AC257	Koregaon
+PC45	AC259	Karad North
+PC45	AC260	Karad South
+PC45	AC261	Patan
+PC45	AC262	Satara
+PC46	AC265	Chiplun
+PC46	AC266	Ratnagiri
+PC46	AC267	Rajapur
+PC46	AC268	Kankavli
+PC46	AC269	Kudal
+PC46	AC270	-Sawantwadi
+PC47	AC271	Chandgad
+PC47	AC272	Radhanagari
+PC47	AC273	Kagal
+PC47	AC274	Kolhapur South
+PC47	AC275	Karvir
+PC47	AC276	Kolhapur North
+PC48	AC277	Shahuwadi
+PC48	AC278	Hatkanangle (SC)
+PC48	AC279	Ichalkaranji
+PC48	AC280	Shirol
+PC48	AC283	Islampur
+PC48	AC284	Shirala
