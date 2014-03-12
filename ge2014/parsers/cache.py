@@ -1,5 +1,4 @@
 import logging
-import urllib
 import json
 import os
 import functools
@@ -102,7 +101,9 @@ class Disk:
     """
     def write(self, path, content):
         if path.endswith(".json"):
-            content = json.dumps(list(content), indent=4)
+            if inspect.isgenerator(content):
+                content = list(content)
+            content = json.dumps(content, indent=4)
         elif path.endswith(".csv"):
             f = StringIO()
             w = csv.writer(f)
