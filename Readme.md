@@ -24,13 +24,17 @@ And for each past elections (esp. the most recent one)
 Data Organization
 -----------------
 
-The data is stored in JSON files in `data/` directory. 
+The data is stored in tsv files in `data/` directory. There is one directory with each state, contianing the following files.
 
-The filename of the each location is its unique ID.
+* ac.tsv
+* pc.tsv
 
-* KA/PC32.json
-* KA/AC152.json
-* KA/AC152/PB0187.json
+Running the scrapper
+--------------------
+
+Example:
+
+    $ python -m ge2014.parsers.KA
 
 Web App
 -------
