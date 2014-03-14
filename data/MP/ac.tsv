@@ -1,0 +1,230 @@
+PC01	AC001	madhavpur
+PC01	AC002	Vijaypur
+PC01	AC003	Sabalgarh
+PC01	AC004	Joura
+PC01	AC005	Sumawali
+PC01	AC006	Morena
+PC01	AC007	Dimani
+PC01	AC008	Ambah (SC)
+PC02	AC009	Ater
+PC02	AC010	Bhind
+PC02	AC011	Lahar
+PC02	AC012	Mehgaon
+PC02	AC013	Gohad (SC)
+PC02	AC020	Sewda
+PC02	AC021	Bhander (SC)
+PC02	AC022	Datia
+PC03	AC014	Gwalior Rural
+PC03	AC015	Gwalior
+PC03	AC016	Gwalior East
+PC03	AC017	Gwalior South
+PC03	AC018	Bhitarwar
+PC03	AC019	Dabra (SC)
+PC03	AC023	Karera (SC)
+PC03	AC024	Pohari
+PC04	AC025	Shivpuri
+PC04	AC026	Pichhore
+PC04	AC027	Kolaras
+PC04	AC028	Bamori
+PC04	AC029	Guna (SC)
+PC04	AC032	Ashok Nagar (SC)
+PC04	AC033	Chanderi
+PC04	AC034	Mungaoli
+PC05	AC035	Bina (SC)
+PC05	AC036	Khurai
+PC05	AC037	Surkhi
+PC05	AC040	Naryoli (SC)
+PC05	AC041	Sagar
+PC05	AC146	Kurwai (SC)
+PC05	AC147	Sironj
+PC05	AC148	Shamshabad
+PC06	AC043	Tikamgarh
+PC06	AC044	Jatara (SC)
+PC06	AC045	Prithvipur
+PC06	AC046	Niwari
+PC06	AC047	Khargapur
+PC06	AC048	Maharajpur
+PC06	AC051	Chhatarpur
+PC06	AC052	Bijawar
+PC07	AC038	Deori
+PC07	AC039	Rehli
+PC07	AC042	Banda
+PC07	AC053	Malhara
+PC07	AC054	Pathariya
+PC07	AC055	Damoh
+PC07	AC056	Jabera
+PC07	AC057	Hatta (SC)
+PC08	AC049	Chandla (SC)
+PC08	AC050	Rajnagar
+PC08	AC058	Pawai
+PC08	AC059	Gunnaor (SC)
+PC08	AC060	Panna
+PC08	AC092	Vijayraghavgarh
+PC08	AC093	Murwara
+PC08	AC094	Bahoriband
+PC09	AC061	Chitrakoot
+PC09	AC062	Raigaon (SC)
+PC09	AC063	Satna
+PC09	AC064	Nagod
+PC09	AC065	Maihar
+PC09	AC066	Amarpatan
+PC09	AC067	Rampur-Baghelan
+PC10	AC068	Sirmour
+PC10	AC069	Semariya
+PC10	AC070	Teonthar
+PC10	AC071	Mauganj
+PC10	AC072	Deotalab
+PC10	AC073	Mangawan (SC)
+PC10	AC074	Rewa
+PC10	AC075	Gurh
+PC11	AC076	Churhat
+PC11	AC077	Sidhi
+PC11	AC078	Sihawal
+PC11	AC079	Chitrangi (ST)
+PC11	AC080	Singrauli
+PC11	AC081	Devsar (SC)
+PC11	AC082	Dhauhani (ST)
+PC11	AC083	Beohari (ST)
+PC12	AC084	Jaisingnagar (ST)
+PC12	AC085	Jaitpur (ST)
+PC12	AC086	Kotma
+PC12	AC087	Anuppur (ST)
+PC12	AC088	Pushprajgarh (ST)
+PC12	AC089	Bandhavgarh (ST)
+PC12	AC090	Manpur (ST)
+PC12	AC091	Barwara (ST)
+PC13	AC095	Patan
+PC13	AC096	Bargi
+PC13	AC097	Jabalpur Purba (SC)
+PC13	AC098	Jabalpur Uttar
+PC13	AC099	Jabalpur Cantt
+PC13	AC100	Jabalpur Paschim
+PC13	AC101	Panagar
+PC13	AC102	Sihora (ST)
+PC14	AC103	Shahpura (ST)
+PC14	AC104	Dindori (ST)
+PC14	AC105	Bichhiya (ST)
+PC14	AC106	Niwas (ST)
+PC14	AC107	Mandla (ST)
+PC14	AC116	Keolari
+PC14	AC117	Lakhnadon (ST)
+PC14	AC118	Gotegaon (SC)
+PC15	AC108	Baihar (ST)
+PC15	AC109	Lanji
+PC15	AC110	Paraswada
+PC15	AC111	Balaghat
+PC15	AC112	Waraseoni
+PC15	AC113	Katangi
+PC15	AC114	Barghat (ST)
+PC15	AC115	Seoni
+PC16	AC122	Junnardeo (ST)
+PC16	AC123	Amarwara (ST)
+PC16	AC124	Churai
+PC16	AC125	Saunsar
+PC16	AC126	Chhindwara
+PC16	AC127	Parasia (SC)
+PC16	AC128	Pandhurna (ST)
+PC17	AC119	Narsingpur
+PC17	AC120	Tendukheda
+PC17	AC121	Gadarwara
+PC17	AC136	Seoni-Malwa
+PC17	AC137	Hoshangabad
+PC17	AC138	Sohagpur
+PC17	AC139	Pipariya (SC)
+PC17	AC140	Udaipura
+PC18	AC141	Bhojpur
+PC18	AC142	Sanchi (SC)
+PC18	AC143	Silwani
+PC18	AC144	Vidisha
+PC18	AC145	Basoda
+PC18	AC156	Budhni
+PC18	AC158	Ichhawar
+PC18	AC173	Khategaon
+PC19	AC149	Berasia (SC)
+PC19	AC150	Bhopal Uttar
+PC19	AC151	Narela
+PC19	AC152	Bhopal Dakshin-Paschim
+PC19	AC153	Bhopal Madhya
+PC19	AC154	Govindpura
+PC19	AC155	Huzur
+PC19	AC159	Sehore
+PC20	AC030	Chachoura
+PC20	AC031	Raghogarh
+PC20	AC160	Narsinghgarh
+PC20	AC161	Biaora
+PC20	AC162	Rajgarh
+PC20	AC163	Khilchipur
+PC20	AC164	Sarangpur (SC)
+PC20	AC165	Susner
+PC21	AC157	Ashta (SC)
+PC21	AC166	Agar (SC)
+PC21	AC167	Shajapur
+PC21	AC168	Shujalpur
+PC21	AC169	Kalapipal
+PC21	AC170	Sonkatch (SC)
+PC21	AC171	Dewas
+PC21	AC172	Hatpipliya
+PC22	AC212	Nagada-Khachrod
+PC22	AC213	Mahidpur
+PC22	AC214	Tarana (SC)
+PC22	AC215	Ghatiya (SC)
+PC22	AC216	Ujjain Uttar
+PC22	AC217	Ujjain Dakshin
+PC22	AC218	Badnagar
+PC22	AC223	A lot (SC)
+PC23	AC222	Jaora
+PC23	AC224	Mandsour
+PC23	AC225	Malhargarh (SC)
+PC23	AC226	Suwasra
+PC23	AC227	Garoth
+PC23	AC228	Manasa
+PC23	AC229	Neemuch
+PC23	AC230	Jawad
+PC24	AC191	Alirajpur (ST)
+PC24	AC192	Jobat (ST)
+PC24	AC193	Jhabua (ST)
+PC24	AC194	Thandla (ST)
+PC24	AC195	Petlawad (ST)
+PC24	AC219	Ratlam Rural (ST)
+PC24	AC220	Ratlam City
+PC24	AC221	Sailana (ST)
+PC25	AC196	Sardarpur (ST)
+PC25	AC197	Gandhwani (ST)
+PC25	AC198	Kukshi (ST)
+PC25	AC199	Manawar (ST)
+PC25	AC200	Dharampuri (ST)
+PC25	AC201	Dhar
+PC25	AC202	Badnawar
+PC25	AC209	Dr.Ambedkarnagar-Mhow
+PC26	AC203	Debalpur
+PC26	AC204	Indore-
+PC26	AC205	Indore-
+PC26	AC206	Indore-
+PC26	AC207	Indore-
+PC26	AC208	Indore-
+PC26	AC210	Rau
+PC26	AC211	Sanwer (SC)
+PC27	AC183	Maheshwar (SC)
+PC27	AC184	Kasrawad
+PC27	AC185	Khargone
+PC27	AC186	Bhagwanpura (ST)
+PC27	AC187	Sendhawa (ST)
+PC27	AC188	Rajpur (ST)
+PC27	AC189	Pansemal (ST)
+PC27	AC190	Badwani (ST)
+PC28	AC174	Bagali (ST)
+PC28	AC175	Mandhata
+PC28	AC177	Khandwa (SC)
+PC28	AC178	Pandhana (ST)
+PC28	AC179	Nepanagar (ST)
+PC28	AC180	Burhanpur
+PC28	AC181	Bikhangaon (ST)
+PC28	AC182	Badwah
+PC29	AC129	Multai
+PC29	AC130	Amla (SC)
+PC29	AC131	Betul
+PC29	AC132	Ghoradongri (ST)
+PC29	AC133	Bhainsdehi (ST)
+PC29	AC134	Timarni (ST)
+PC29	AC135	Harda
+PC29	AC176	Harsud (ST)
