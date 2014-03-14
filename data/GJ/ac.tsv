@@ -1,0 +1,182 @@
+PC01	AC001	Abdasa
+PC01	AC002	Mandvi
+PC01	AC003	Bhuj
+PC01	AC004	Anjar
+PC01	AC005	Gandhidham (SC)
+PC01	AC006	Rapar
+PC01	AC065	Morbi
+PC02	AC007	Vav
+PC02	AC008	Tharad
+PC02	AC009	Dhanera
+PC02	AC010	Danta (ST)
+PC02	AC012	Palanpur
+PC02	AC013	Deesa
+PC02	AC014	Deodar
+PC03	AC011	Vadgam (SC)
+PC03	AC015	Kankrej
+PC03	AC016	Radhanpur
+PC03	AC017	Chanasma
+PC03	AC018	Patan
+PC03	AC019	Sidhpur
+PC03	AC020	Kheralu
+PC04	AC021	Unjha
+PC04	AC022	Visnagar
+PC04	AC023	Becharaji
+PC04	AC024	Kadi (SC)
+PC04	AC025	Mahesana
+PC04	AC026	Vijapur
+PC04	AC037	Mansa
+PC05	AC027	Himatnagar
+PC05	AC028	Idar (SC)
+PC05	AC029	Khedbrahma (ST)
+PC05	AC030	Bhiloda (ST)
+PC05	AC031	Modasa
+PC05	AC032	Bayad
+PC05	AC033	Prantij
+PC06	AC036	Gandhinagar North
+PC06	AC038	Kalol
+PC06	AC040	Sanand
+PC06	AC041	Ghatlodia
+PC06	AC042	Vejalpur
+PC06	AC045	Naranpura
+PC06	AC055	Sabarmati
+PC07	AC034	Dahegam
+PC07	AC035	Gandhinagar South
+PC07	AC043	Vatva
+PC07	AC046	Nikol
+PC07	AC047	Naroda
+PC07	AC048	Thakkarbapa Nagar
+PC07	AC049	Bapunagar
+PC08	AC044	Ellisbridge
+PC08	AC050	Amraiwadi
+PC08	AC051	Dariapur
+PC08	AC052	Jamalpur-Khadia
+PC08	AC053	Maninagar
+PC08	AC054	Danilimda (SC)
+PC08	AC056	Asarwa (SC)
+PC09	AC039	Viramgam
+PC09	AC059	Dhandhuka
+PC09	AC060	Dasada (SC)
+PC09	AC061	Limbdi
+PC09	AC062	Wadhwan
+PC09	AC063	Chotila
+PC09	AC064	Dhrangadhra
+PC10	AC066	Tankara
+PC10	AC067	Wankaner
+PC10	AC068	Rajkot East
+PC10	AC069	Rajkot West
+PC10	AC070	Rajkot South
+PC10	AC071	Rajkot Rural (SC)
+PC10	AC072	Jasdan
+PC11	AC073	Gondal
+PC11	AC074	Jetpur
+PC11	AC075	Dhoraji
+PC11	AC083	Porbandar
+PC11	AC084	Kutiyana
+PC11	AC085	Manavadar
+PC11	AC088	Keshod
+PC12	AC076	Kalavad (SC)
+PC12	AC077	Jamnagar Rural
+PC12	AC078	Jamnagar North
+PC12	AC079	Jamnagar South
+PC12	AC080	Jamjodhpur
+PC12	AC081	Khambhalia
+PC12	AC082	Dwarka
+PC13	AC086	Junagadh
+PC13	AC087	Visavadar
+PC13	AC089	Mangrol
+PC13	AC090	Somnath
+PC13	AC091	Talala
+PC13	AC092	Kodinar (SC)
+PC13	AC093	Una
+PC14	AC094	Dhari
+PC14	AC095	Amreli
+PC14	AC096	Lathi
+PC14	AC097	Savarkundla
+PC14	AC098	Rajula
+PC14	AC099	Mahuva
+PC14	AC101	Gariadhar
+PC15	AC100	Talaja
+PC15	AC102	Palitana
+PC15	AC103	Bhavnagar Rural
+PC15	AC104	Bhavnagar East
+PC15	AC105	Bhavnagar West
+PC15	AC106	Gadhada (SC)
+PC15	AC107	Botad
+PC16	AC108	Khambhat
+PC16	AC109	Borsad
+PC16	AC110	Anklav
+PC16	AC111	Umreth
+PC16	AC112	Anand
+PC16	AC113	Petlad
+PC16	AC114	Sojitra
+PC17	AC057	Daskroi
+PC17	AC058	Dholka
+PC17	AC115	Matar
+PC17	AC116	Nadiad
+PC17	AC117	Mehmedabad
+PC17	AC118	Mahudha
+PC17	AC120	Kapadvanj
+PC18	AC119	Thasra
+PC18	AC121	Balasinor
+PC18	AC122	Lunawada
+PC18	AC124	Shehra
+PC18	AC125	Morva Hadaf (ST)
+PC18	AC126	Godhra
+PC18	AC127	Kalol
+PC19	AC123	Santrampur (ST)
+PC19	AC129	Fatepura (ST)
+PC19	AC130	Jhalod (ST)
+PC19	AC131	Limkheda (ST)
+PC19	AC132	Dahod (ST)
+PC19	AC133	Garbada (ST)
+PC19	AC134	Devgadb
+PC20	AC135	Savli
+PC20	AC136	Vaghodia
+PC20	AC141	Vadodara City (SC)
+PC20	AC142	Sayajigunj
+PC20	AC143	Akota
+PC20	AC144	Raopura
+PC20	AC145	Manjalpur
+PC21	AC128	Halol
+PC21	AC137	Chhota Udaipur (ST)
+PC21	AC138	Jetpur (ST)
+PC21	AC139	Sankheda (ST)
+PC21	AC140	Dabhoi
+PC21	AC146	Padra
+PC21	AC148	Nandod (ST)
+PC22	AC147	Karjan
+PC22	AC149	Dediapada (ST)
+PC22	AC150	Jambusar
+PC22	AC151	Vagra
+PC22	AC152	Jhagadia (ST)
+PC22	AC153	Bharuch
+PC22	AC154	Ankleshwar
+PC23	AC156	Mangrol (ST)
+PC23	AC157	Mandvi (ST)
+PC23	AC158	Kamrej
+PC23	AC169	Bardoli (SC)
+PC23	AC170	Mahuva (ST)
+PC23	AC171	Vyara (ST)
+PC23	AC172	Nizar (ST)
+PC24	AC155	Olpad
+PC24	AC159	Surat East
+PC24	AC160	Surat North
+PC24	AC161	Varachha Road
+PC24	AC162	Karanj
+PC24	AC166	Katargam
+PC24	AC167	Surat West
+PC25	AC163	Limbayat
+PC25	AC164	Udhna
+PC25	AC165	Majura
+PC25	AC168	Choryasi
+PC25	AC174	Jalalpore
+PC25	AC175	Navsari
+PC25	AC176	Gandevi (ST)
+PC26	AC173	Dangs (ST)
+PC26	AC177	Vansda (ST)
+PC26	AC178	Dharampur (ST)
+PC26	AC179	Valsad
+PC26	AC180	Pardi
+PC26	AC181	Kaprada (ST)
+PC26	AC182	Umbergaon (ST)

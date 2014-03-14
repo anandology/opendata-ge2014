@@ -1,0 +1,404 @@
+PC01	AC001	Behat
+PC01	AC002	Nakur
+PC01	AC003	Saharanpur Nagar
+PC01	AC004	Saharanpur
+PC01	AC005	Deoband
+PC01	AC006	Rampur Maniharan (SC)
+PC02	AC007	Gangoh
+PC02	AC008	Kairana
+PC02	AC009	Thana Bhawan
+PC02	AC010	Shamli
+PC03	AC011	Budhana
+PC03	AC012	Charthawal
+PC03	AC014	Muzaffar Nagar
+PC03	AC015	Khatauli
+PC03	AC044	Sardhana
+PC04	AC013	Purqazi (SC)
+PC04	AC016	Meerapur
+PC04	AC022	Bijnor
+PC04	AC023	Chandpur
+PC04	AC045	Hastinapur (SC)
+PC05	AC017	Najibabad
+PC05	AC018	Nagina (SC)
+PC05	AC020	Dhampur
+PC05	AC021	Nehtaur (SC)
+PC05	AC024	Noorpur
+PC06	AC019	Barhapur
+PC06	AC025	Kanth
+PC06	AC026	Thakurdwara
+PC06	AC027	Moradabad Rural
+PC06	AC028	Moradabad Nagar-
+PC07	AC034	Suar
+PC07	AC035	Chamraua
+PC07	AC036	Bilaspur
+PC07	AC037	Rampur
+PC07	AC038	Milak (SC)
+PC08	AC029	Kundarki
+PC08	AC030	Bilari
+PC08	AC031	Chandausi (SC)
+PC08	AC032	Asmoli
+PC08	AC033	Sambhal
+PC09	AC039	Dhanaura (SC)
+PC09	AC040	Naugawan Sadat
+PC09	AC041	Amroha
+PC09	AC042	Hasanpur
+PC09	AC060	Garhmukteshwar
+PC10	AC046	Kithore
+PC10	AC047	Meerut Cantonment
+PC10	AC048	Meerut
+PC10	AC049	Meerut South
+PC10	AC059	Hapur (SC)
+PC11	AC043	Siwalkhas
+PC11	AC050	Chhaprauli
+PC11	AC051	Baraut
+PC11	AC052	Baghpat
+PC11	AC057	Modi Nagar
+PC12	AC053	Loni
+PC12	AC054	Muradnagar
+PC12	AC055	Sahibabad
+PC12	AC056	Ghaziabad
+PC12	AC058	Dhaulana
+PC13	AC061	Noida
+PC13	AC062	Dadri
+PC13	AC063	Jewar
+PC13	AC064	Sikandrabad
+PC13	AC070	Khurja (SC)
+PC14	AC065	Bulandshahr
+PC14	AC066	Syana
+PC14	AC067	Anupshahr
+PC14	AC068	Debai
+PC14	AC069	Shikarpur
+PC15	AC071	Khair (SC)
+PC15	AC072	Barauli
+PC15	AC073	Atrauli
+PC15	AC075	Koil
+PC15	AC076	Aligarh
+PC16	AC074	Chharra
+PC16	AC077	Iglas (SC)
+PC16	AC078	Hathras (SC)
+PC16	AC079	Sadabad
+PC16	AC080	Sikandra Rao
+PC17	AC081	Chhata
+PC17	AC082	Mant
+PC17	AC083	Goverdhan
+PC17	AC084	Mathura
+PC17	AC085	Baldev (SC)
+PC18	AC086	Etmadpur
+PC18	AC087	Agra Cantonment (SC)
+PC18	AC088	Agra South
+PC18	AC089	Agra North
+PC18	AC106	Jalesar (SC)
+PC19	AC090	Agra Rural (SC)
+PC19	AC091	Fatehpur Sikri
+PC19	AC092	Kheragarh
+PC19	AC093	Fatehabad
+PC19	AC094	Bah
+PC20	AC095	Tundla (SC)
+PC20	AC096	Jasrana
+PC20	AC097	Firozabad
+PC20	AC098	Shikohabad
+PC20	AC099	Sirsaganj
+PC21	AC107	Mainpuri
+PC21	AC108	Bhongaon
+PC21	AC109	Kishni (SC)
+PC21	AC110	Karhal
+PC21	AC199	Jaswantnagar
+PC22	AC100	Kasganj
+PC22	AC101	Amanpur
+PC22	AC102	Patiyali
+PC22	AC104	Etah
+PC22	AC105	Marhara
+PC23	AC111	Gunnaur
+PC23	AC112	Bisauli (SC)
+PC23	AC113	Sahaswan
+PC23	AC114	Bilsi
+PC23	AC115	Badaun
+PC24	AC116	Shekhupur
+PC24	AC117	Dataganj
+PC24	AC122	Faridpur (SC)
+PC24	AC123	Bithari Chainpur
+PC24	AC126	Aonla
+PC25	AC119	Meerganj
+PC25	AC120	Bhojipura
+PC25	AC121	Nawabganj
+PC25	AC124	Bareilly
+PC25	AC125	Bareilly Cantonment
+PC26	AC118	Baheri
+PC26	AC127	Pilibhit
+PC26	AC128	Barkhera
+PC26	AC129	Puranpur (SC)
+PC26	AC130	Bisalpur
+PC27	AC131	Katra
+PC27	AC132	Jalalabad
+PC27	AC133	Tilhar
+PC27	AC134	Powayan (SC)
+PC27	AC135	Shahjahanpur
+PC27	AC136	Dadraul
+PC28	AC137	Palia
+PC28	AC138	Nighasan
+PC28	AC139	Gola Gokrannath
+PC28	AC140	Sri Nagar (SC)
+PC28	AC142	Lakhimpur
+PC29	AC141	Dhaurahra
+PC29	AC143	Kasta (SC)
+PC29	AC144	Mohammdi
+PC29	AC145	Maholi
+PC29	AC147	Hargaon (SC)
+PC30	AC146	Sitapur
+PC30	AC148	Laharpur
+PC30	AC149	Biswan
+PC30	AC150	Sevata
+PC30	AC151	Mahmoodabad
+PC31	AC154	Sawayazpur
+PC31	AC155	Shahabad
+PC31	AC156	Hardoi
+PC31	AC157	Gopamau (SC)
+PC31	AC158	Sandi (SC)
+PC32	AC153	Misrikh (SC)
+PC32	AC159	Bilgram-Mallanwan
+PC32	AC160	Balamau (SC)
+PC32	AC161	Sandila
+PC32	AC209	Bilhaur (SC)
+PC33	AC162	Bangermau
+PC33	AC163	Safipur (SC)
+PC33	AC164	Mohan (SC)
+PC33	AC165	Unnao
+PC33	AC166	Bhagwantnagar
+PC33	AC167	Purwa
+PC34	AC152	Sidhauli (SC)
+PC34	AC168	Malihabad (SC)
+PC34	AC169	Bakshi Kaa Talab
+PC34	AC170	Sarojini Nagar
+PC34	AC176	Mohanlalganj (SC)
+PC35	AC171	Lucknow West
+PC35	AC172	Lucknow North
+PC35	AC173	Lucknow East
+PC35	AC174	Lucknow Central
+PC35	AC175	Lucknow Cantonment
+PC36	AC177	Bachhrawan (SC)
+PC36	AC179	Harchandpur
+PC36	AC180	Rae Bareli
+PC36	AC182	Sareni
+PC36	AC183	Unchahar
+PC37	AC178	Tiloi
+PC37	AC181	Salon (SC)
+PC37	AC184	Jagdishpur (SC)
+PC37	AC185	Gauriganj
+PC37	AC186	Amethi
+PC38	AC187	Isauli
+PC38	AC188	Sultanpur
+PC38	AC189	Sadar
+PC38	AC190	Lambhua
+PC38	AC191	Kadipur (SC)
+PC39	AC244	Rampur Khas
+PC39	AC247	Vishwanath Ganj
+PC39	AC248	Pratapgarh
+PC39	AC249	Patti
+PC39	AC250	Raniganj
+PC40	AC103	Aliganj
+PC40	AC192	Kaimganj (SC)
+PC40	AC193	Amritpur
+PC40	AC194	Farrukhabad
+PC40	AC195	Bhojpur
+PC41	AC200	Etawah
+PC41	AC201	Bharthana (SC)
+PC41	AC203	Dibiyapur
+PC41	AC204	Auraiya (SC)
+PC41	AC207	Sikandra
+PC42	AC196	Chhibramau
+PC42	AC197	Tirwa
+PC42	AC198	Kannauj (SC)
+PC42	AC202	Bidhuna
+PC42	AC205	Rasulabad (SC)
+PC43	AC212	Govind Nagar
+PC43	AC213	Sishamau
+PC43	AC214	Arya Nagar
+PC43	AC215	Kidwai Nagar
+PC43	AC216	Kanpur Cantonment
+PC44	AC206	Akbarpur-Raniya
+PC44	AC210	Bithoor
+PC44	AC211	Kalyanpur
+PC44	AC217	Maharajpur
+PC44	AC218	Ghatampur (SC)
+PC45	AC208	Bhognipur
+PC45	AC219	Madhaugarh
+PC45	AC220	Kalpi
+PC45	AC221	Orai (SC)
+PC45	AC225	Erich
+PC45	-	Garautha
+PC46	AC222	Babina
+PC46	AC223	Jhansi Nagar
+PC46	AC224	Mauranipur (SC)
+PC46	AC226	Lalitpur
+PC46	AC227	Mehroni (SC)
+PC47	AC228	Hamirpur
+PC47	AC229	Rath (SC)
+PC47	AC230	Mahoba
+PC47	AC231	Charkhari
+PC47	AC232	Tindwari
+PC48	AC233	Baberu
+PC48	AC234	Naraini (SC)
+PC48	AC235	Banda
+PC48	AC236	Chitrakoot
+PC48	AC237	Manikpur
+PC49	AC238	Jahanabad
+PC49	AC239	Bindki
+PC49	AC240	Fatehpur
+PC49	AC241	Ayah Shah
+PC49	AC242	Husainganj
+PC49	AC243	Khaga (SC)
+PC50	AC245	Babaganj (SC)
+PC50	AC246	Kunda
+PC50	AC251	Sirathu
+PC50	AC252	Manjhanpur (SC)
+PC50	AC253	Chail
+PC51	AC254	Phaphamau
+PC51	AC255	Soraon (SC)
+PC51	AC256	Phulpur
+PC51	AC261	Allahabad West
+PC51	AC262	Allahabad North
+PC52	AC259	Meja
+PC52	AC260	Karachhana
+PC52	AC263	Allahabad South
+PC52	AC264	Bara (SC)
+PC52	AC265	Koraon (SC)
+PC53	AC266	Kursi
+PC53	AC267	Ram Nagar
+PC53	AC268	Barabanki
+PC53	AC269	Zaidpur (SC)
+PC53	AC272	Haidergarh (SC)
+PC54	AC270	Dariyabad
+PC54	AC271	Rudauli
+PC54	AC273	Milkipur (SC)
+PC54	AC274	Bikapur
+PC54	AC275	Ayodhya
+PC55	AC276	Goshainganj
+PC55	AC277	Katehari
+PC55	AC278	Tanda
+PC55	AC280	Jalalpur
+PC55	AC281	Akbarpur
+PC56	AC282	Balha (SC)
+PC56	AC283	Nanpara
+PC56	AC284	Matera
+PC56	AC285	Mahasi
+PC56	AC286	Bahraich
+PC57	AC287	Payagpur
+PC57	AC288	Kaiserganj
+PC57	AC297	Katra Bazar
+PC57	AC298	Colonelganj
+PC57	AC299	Tarabganj
+PC58	AC289	Bhinga
+PC58	AC290	Shrawasti
+PC58	AC291	Tulsipur
+PC58	AC292	Gainsari
+PC58	AC294	Balrampur (SC)
+PC59	AC293	Utraula
+PC59	AC295	Mehnaun
+PC59	AC296	Gonda
+PC59	AC300	Mankapur (SC)
+PC59	AC301	Gaura
+PC60	AC302	Shohratgarh
+PC60	AC303	Kapilvastu (SC)
+PC60	AC304	Bansi
+PC60	AC305	Itwa
+PC60	AC306	Domariyaganj
+PC61	AC307	Harraiya
+PC61	AC308	Kaptanganj
+PC61	AC309	Rudhauli
+PC61	AC310	Basti Sadar
+PC61	AC311	Mahadewa (SC)
+PC62	AC279	Alapur (SC)
+PC62	AC312	Menhdawal
+PC62	AC313	Khalilabad
+PC62	AC314	Dhanghata (SC)
+PC62	AC325	Khajani (SC)
+PC63	AC315	Pharenda
+PC63	AC316	Nautanwa
+PC63	AC317	Siswa
+PC63	AC318	Maharajganj (SC)
+PC63	AC319	Paniyara
+PC64	AC320	Caimpiyarganj
+PC64	AC321	Pipraich
+PC64	AC322	Gorakhpur Urban
+PC64	AC323	Gorakhpur Rural
+PC64	AC324	Sahajanwa
+PC65	AC329	Khadda
+PC65	AC330	Padrauna
+PC65	AC333	Kushinagar
+PC65	AC334	Hata
+PC65	AC335	Ramkola (SC)
+PC66	AC331	Tamkuhi Raj
+PC66	AC332	Fazilnagar
+PC66	AC337	Deoria
+PC66	AC338	Pathardeva
+PC66	AC339	Rampur Karkhana
+PC67	AC326	Chauri-Chaura
+PC67	AC327	Bansgaon (SC)
+PC67	AC328	Chillupar
+PC67	AC336	Rudrapur
+PC67	AC342	Barhaj
+PC68	AC343	Atrauliya
+PC68	AC348	Nizamabad
+PC68	AC349	Phoolpur-Pawai
+PC68	AC350	Didarganj
+PC68	AC351	Lalganj (SC)
+PC69	AC344	Gopalpur
+PC69	AC345	Sagri
+PC69	AC346	Mubarakpur
+PC69	AC347	Azamgarh
+PC69	AC352	Mehnagar (SC)
+PC70	AC353	Madhuban
+PC70	AC354	Ghosi
+PC70	AC355	Muhammadabad-Gohna (SC)
+PC70	AC356	Mau
+PC70	AC358	Rasara
+PC71	AC340	Bhatpar Rani
+PC71	AC341	Salempur (SC)
+PC71	AC357	Belthara Road (SC)
+PC71	AC359	Sikanderpur
+PC71	AC362	Bansdih
+PC72	AC360	Phephana
+PC72	AC361	Ballia Nagar
+PC72	AC363	Bairia
+PC72	AC377	Zahoorabad
+PC72	AC378	Mohammadabad
+PC73	AC364	Badlapur
+PC73	AC365	Shahganj
+PC73	AC366	Jaunpur
+PC73	AC367	Malhani
+PC73	AC368	Mungra Badshahpur
+PC74	AC369	Machhlishahr (SC)
+PC74	AC370	Mariyahu
+PC74	AC371	Zafrabad
+PC74	AC372	Kerakat (SC)
+PC74	AC384	Pindra
+PC75	AC373	Jakhania(SC)
+PC75	AC374	Saidpur(SC)
+PC75	AC375	Ghazipur
+PC75	AC376	Jangipur
+PC75	AC379	Zamania
+PC76	AC380	Mughalsarai
+PC76	AC381	Sakaldiha
+PC76	AC382	Saiyadraja
+PC76	AC385	Ajagara (SC)
+PC76	AC386	Shivpur
+PC77	AC387	Rohaniya
+PC77	AC388	Varanasi North
+PC77	AC389	Varanasi South
+PC77	AC390	Varanasi Cantonment
+PC77	AC391	Sevapuri
+PC78	AC257	Pratappur
+PC78	AC258	Handia
+PC78	AC392	Bhadohi
+PC78	AC393	Gyanpur
+PC78	AC394	Aurai (SC)
+PC79	AC395	Chhanbey (SC)
+PC79	AC396	Mirzapur
+PC79	AC397	Majhawan
+PC79	AC398	Chunar
+PC79	AC399	Marihan
+PC80	AC383	Chakia (SC)
+PC80	AC400	Ghorawal
+PC80	AC401	Robertsganj
+PC80	AC402	Obra
+PC80	AC403	Duddhi (SC)
