@@ -26,12 +26,16 @@ logger = logging.getLogger(__name__)
 
 class Browser(web.Browser):
     _soup = None
+    def __init__(self, url=None):
+        web.Browser.__init__(self)
+        self.url = url or URL
+
     def post(self, params):
-        return self.open(URL, params)
+        return self.open(self.url, params)
 
     def get_data(self):
         if self.data is None:
-            self.open(URL)
+            self.open(self.url)
         return self.data
 
     def get_soup(self):
@@ -77,6 +81,13 @@ class Browser(web.Browser):
         if self.find_select_value(name) == value:
             return
 
+        params = self.read_formdata()
+
+        params[name] = value
+        params['__EVENTTARGET'] = name
+        return self.post(params)
+
+    def read_formdata(self):
         soup = self.get_soup()
         params = {}
 
@@ -87,12 +98,11 @@ class Browser(web.Browser):
         params['GoogleMapForASPNet1$hidEventValue'] = ''
         params['__EVENTARGUMENT'] = ''
         params['__LASTFOCUS'] = ''
-
-        params[name] = value
-        params['__EVENTTARGET'] = name
-        params['__EVENTVALIDATION']  = soup.find("input", {"name": "__EVENTVALIDATION"})['value']
+        ev = soup.find("input", {"name": "__EVENTVALIDATION"})
+        if ev:
+            params['__EVENTVALIDATION']  = ev['value']
         params['__VIEWSTATE'] = soup.find("input", {"name": "__VIEWSTATE"})['value']
-        return self.post(params)
+        return params
 
     def get_select_options(self, name):
         select = self.get_soup().find("select", {"name": name})
@@ -100,6 +110,7 @@ class Browser(web.Browser):
         d = dict((o['value'], o.get_text().strip()) for o in options)
         d.pop("-1", None) # remove the "--select xxx---" option
         d.pop("ALL", None) # remove the "ALL" option
+        d.pop("Select", None) # remove the "Select" option
         return d
 
 class Crawler(object):
@@ -155,6 +166,55 @@ class Crawler(object):
         b.select_option("ddlPS", ps['ps'])
         return b.xopen(DATA_URL).read()
 
+    @cache.disk_memoize("cache/map/{1[state]}/AC{1[ac]}/PS-info.txt")
+    def get_ac_info(self, ac):
+        """Get lat/long of all the polling booths of an AC.
+        """
+        b = self.browser
+        b.select_option("ddlState", ac['state'])
+        b.select_option("ddlDistrict", ac['district'])
+        b.select_option("ddlAC", ac['ac'])
+        params = b.read_formdata()
+        params['imgbtnFind.x'] = 43
+        params['imgbtnFind.y'] = 23
+        b.post(params)
+        return b.xopen(DATA_URL).read()
+
+    @cache.disk_memoize("cache/map/{1[state]}/AC{1[ac]}/PS-coordinates.tsv")
+    def get_ps_coordinates(self, ac):
+        """Returns coordinates of all available polling booths in the
+        given assembly constituency.
+        """
+        d = json.loads(self.get_ac_info(ac))
+        for p in d['d']['Points']:
+            info = self._parse_infohtml(p['InfoHTML'])
+            ps = dict(ac, 
+                ps=info['ps'], 
+                ps_name=info['ps_name'],
+                longtide=p['Longitude'],
+                latitude=p['Latitude'])
+            yield [
+                ps['state'], ps['state_name'], 
+                ps['ac'], ps['ac_name'], 
+                ps['ps'], ps['ps_name'],
+                ps['longtide'], ps['latitude']]
+
+    def _parse_infohtml(self, infohtml):
+        soup = BeautifulSoup(infohtml.replace("<br>", "\n").replace("<br/>", ""))
+        lines = soup.get_text().strip().splitlines()
+        info = {}
+        for line in lines:
+            if ":" in line:
+                k, v = line.split(":", 1)
+                info[k.strip().lower()] = v
+
+        num_name = info['ps no and name']
+        logger.info("num_name %s", num_name)
+        num, name = num_name.split("-", 1)
+        info['ps'] = int(num)
+        info['ps_name'] = name.strip()
+        return info
+
     @cache.disk_memoize("cache/map/{1[state]}/AC{1[ac]}/ps.tsv")
     def get_ps_info_of_ac(self, ac):
         for ps in self.get_polling_stations(ac):
@@ -168,6 +228,12 @@ class Crawler(object):
                 str(latitude),
                 ps['ps_name']]
 
+    @cache.disk_memoize("cache/map/{1[state]}/all-ps.tsv")
+    def get_ps_coordinates_of_state(self, state):
+        for ac in self.get_acs(state):
+            for ps in self.get_ps_coordinates(ac):
+                yield ps
+
 def get_ac_dict(state_code):
     c = Crawler()
     return dict((ac['ac'], ac) for ac in c.get_acs(state_code))
@@ -176,22 +242,17 @@ def main():
     cache.setup_logger()
     c = Crawler()
 
-    state = {u'state': u'S10', u'state_name': u'Karnataka'}
-
-    for ac in c.get_acs(state):
-        print ac
-        pses = c.get_polling_stations(ac)
-        print pses[0]
-        #print get_ps_info(pses[0])
-        #break
+    for state in sorted(c.get_states(), key=lambda s: s['state']):
+        for ac in c.get_acs(state):
+            print c.get_ps_coordinates(ac)
 
 def main2(district_code):
     c = Crawler()
     cache.setup_logger()    
     district = {
         "district_name": "xxx",
-        "state": "S10",
-        "state_name": "Karnataka",
+        "state": "S01",
+        "state_name": "Andhra PradeshKarnataka",
         "district": district_code
     }
     for ac in c.get_district_acs(district):
@@ -211,10 +272,8 @@ def main4():
     c = Crawler()
     cache.setup_logger()
     
-    state = {"state": "S10"}
-    ac_code = sys.argv[1]
-    ac = get_ac_dict(state)[ac_code]
-    print c.get_ps_info_of_ac(ac)
+    state = {"state": "S01", "state_name": "Andhra Pradesh"}
+    c.get_ps_coordinates_of_state(state)
 
 if __name__ == '__main__':
     #main2(sys.argv[1])
