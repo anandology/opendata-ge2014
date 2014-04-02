@@ -209,7 +209,6 @@ class Crawler(object):
                 info[k.strip().lower()] = v
 
         num_name = info['ps no and name']
-        logger.info("num_name %s", num_name)
         num, name = num_name.split("-", 1)
         info['ps'] = int(num)
         info['ps_name'] = name.strip()
@@ -280,4 +279,4 @@ def main4():
 
 if __name__ == '__main__':
     #main2(sys.argv[1])
-    main4()
+    main()
