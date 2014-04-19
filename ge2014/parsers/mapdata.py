@@ -239,7 +239,7 @@ class Crawler(object):
             for ps in self.get_ps_coordinates_of_state(state):
                 yield ps
 
-    @cache.disk_memoize("cache/map/{1[state]/ac_by_district.tsv")
+    @cache.disk_memoize("cache/map/{1[state]}/ac_by_district.tsv")
     def get_district_ac_mapping(self, state):
         for dist in self.get_districts(state):
             for ac in self.get_district_acs(dist):
