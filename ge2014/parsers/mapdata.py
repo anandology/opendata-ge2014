@@ -229,15 +229,24 @@ class Crawler(object):
 
     @cache.disk_memoize("cache/map/{1[state]}/all-ps.tsv")
     def get_ps_coordinates_of_state(self, state):
-        for ac in self.get_acs(state):
+        for ac in sorted(self.get_acs(state), key=lambda ac: ac['ac']):
             for ps in self.get_ps_coordinates(ac):
                 yield ps
 
     @cache.disk_memoize("cache/map/india-ps.tsv")
     def get_ps_coordinates_of_india(self):
-        for state in self.get_states():
+        for state in sorted(self.get_states(), key=lambda s: s['state']):
             for ps in self.get_ps_coordinates_of_state(state):
                 yield ps
+
+    @cache.disk_memoize("cache/map/{1[state]/ac_by_district.tsv")
+    def get_district_ac_mapping(self, state):
+        for dist in self.get_districts(state):
+            for ac in self.get_district_acs(dist):
+                yield [
+                    ac['state'], ac['state_name'], 
+                    ac['distict'], dist['district_name'],
+                    ac['ac'], dist['ac_name']]
 
 def get_ac_dict(state_code):
     c = Crawler()
@@ -275,8 +284,8 @@ def main4():
     cache.setup_logger()
     
     state = {"state": "S01", "state_name": "Andhra Pradesh"}
-    c.get_ps_coordinates_of_state(state)
+    c.get_district_ac_mapping(state)
 
 if __name__ == '__main__':
     #main2(sys.argv[1])
-    main()
+    main4()
