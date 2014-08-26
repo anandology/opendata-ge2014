@@ -41,7 +41,7 @@ class Browser(web.Browser):
     def get_soup(self):
         """Returns beautiful soup of the current document."""
         if self._soup is None:
-            self._soup = BeautifulSoup(self.get_data(), "lxml")
+            self._soup = BeautifulSoup(self.get_data(), "lxml", from_encoding='utf8')
         return self._soup
 
     def open(self, url, payload=None, headers=HEADERS):
